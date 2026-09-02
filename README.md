@@ -1,9 +1,36 @@
-# Dev Finance :dollar:
+# Dev Finance
 
-## Demonstração :computer:
-Veja **ao vivo** como este aplicativo funciona: [clique aqui para ver a demonstração ao vivo](https://mitacho.github.io/devfinance/).
+A responsive personal finance tracker built during Rocketseat's Discover Marathon.
 
-## Sobre o aplicativo :information_source:
-O Dev Finance é um aplicativo de controle financeiro que eu contrui na [Maratona Discover](https://www.youtube.com/watch?v=NlDr6JX3VvA) junto com o [Mayk Brito](https://www.instagram.com/maykbrito/), da [Rocketseat](https://rocketseat.com.br/).
+## Project goal
 
-O aplicativo é responsivo, tendo, portanto, um boa visualização em dispositivos com uma tela grande e em dispositivos móveis, que costumam ter uma tela pequena.
+Practice fundamental frontend development by creating a browser-based application that records income and expenses and calculates the current balance.
+
+## Features
+
+- Add and remove transactions
+- Calculate income, expenses and total balance
+- Persist data in browser storage
+- Responsive layout
+
+## Technologies
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Web Storage API**
+
+## What I learned
+
+- Manipulating the DOM with plain JavaScript
+- Modeling and aggregating financial transactions
+- Persisting state without a backend
+- Building a responsive interface
+
+## Running locally
+
+Open `index.html` in a browser.
+
+## Project status
+
+This is a learning and experimentation repository. It documents the concepts practiced at the time and is not presented as a production-ready application.
